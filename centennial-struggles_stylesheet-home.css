@@ -20,6 +20,7 @@ body {
 			}
 		
 			p{
+				text-align: left;
 				white-space: normal;
 				word-wrap: nowrap;
 				word-break: keep-all;
