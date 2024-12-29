@@ -17,15 +17,12 @@ body {
 				height:100%;
 				margin:auto;
 		    		line-height:normal;
-				text-align: left;
-			}
-		
+				text-align: left; }
 .header-1 {
 				text-align: center !important;
 				font-size: calc(15px + 0.390625vw);
 				width: 100%;
-				background-color: #990000;
-				color: black;
+				color: #000000;
 				text-shadow: 0 1px 0 #fff;
 				display: fixed;
 				white-space: no-wrap;
