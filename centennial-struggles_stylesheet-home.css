@@ -17,11 +17,11 @@ body {
 				height:100%;
 				margin:auto;
 		    		line-height:normal;
-				text-align: left;
+				text-align: left !important;
 			}
 		
 			p{
-				text-align: center;
+				text-align: left !important;
 				white-space: normal;
 				word-wrap: nowrap;
 				word-break: keep-all;
