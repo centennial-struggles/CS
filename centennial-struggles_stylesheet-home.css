@@ -16,7 +16,11 @@ body {
 				height:100%;
 				margin:auto;
 		    		line-height:normal;
-				text-align: left; }
+				text-align: left;
+}
+p {
+	color: #000000;
+}
 .header-1 {
 				text-align: center !important;
 				font-size: calc(15px + 0.390625vw);
