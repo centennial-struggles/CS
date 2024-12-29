@@ -21,7 +21,7 @@ body {
 p {
 	color: #000000;
 }
-.header-1 {
+header-1 {
 				text-align: center !important;
 				font-size: calc(15px + 0.390625vw);
 				width: 100%;
