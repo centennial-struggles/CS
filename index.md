@@ -4,6 +4,8 @@ layout: homepage
 permalink: /
 ---
 
+<link rel="stylesheet" type="text/css" href="centennial-struggles_stylesheet-home.css" />
+
 # News & Updates
 
 ## Whitten/Shrivastav Invite Snipers and State Troopers To Campus
