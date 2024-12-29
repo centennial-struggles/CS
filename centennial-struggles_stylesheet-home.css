@@ -51,7 +51,7 @@ body {
 				font-size: calc(15px + 0.390625vw);
 				width: 100%;
 				background-color: #990000;
-				color: #ffffff;
+				color: #777777;
 				text-shadow: 0 1px 0 #fff;
 				display: fixed;
 				white-space: no-wrap;
@@ -70,12 +70,12 @@ body {
 				overflow-x: hidden;
 				font-size: calc(15px + 0.390625vw);
 				line-height:normal;
-				color: #ffffff;
+				color: #777777;
 			}
 			.header-5{
 				text-align: center;
 				width: 100%;
-				color: #ffffff;
+				color: #777777;
 				text-align:center;
 				font-size: calc(15px + 0.390625vw);
 				display: block;
