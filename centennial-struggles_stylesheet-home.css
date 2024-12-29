@@ -20,3 +20,18 @@ body {
 				text-align: left;
 			}
 		
+.header-1 {
+				text-align: center !important;
+				font-size: calc(15px + 0.390625vw);
+				width: 100%;
+				background-color: #990000;
+				color: black;
+				text-shadow: 0 1px 0 #fff;
+				display: fixed;
+				white-space: no-wrap;
+				word-break: keep-all;
+				overflow-x: hidden;
+				line-height:1;
+				line-height:normal;
+				z-index:3;
+			}
